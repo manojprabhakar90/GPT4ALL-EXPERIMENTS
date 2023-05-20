@@ -14,3 +14,7 @@ If you are a windows user, please follow the below steps.
 6. Install jupyter by pip install notebook
 7. Open Jupyter Notebook using python -m notebook. 
 8. Download the gpt4all model using wget https://huggingface.co/mrgaang/aira/blob/main/gpt4all-converted.bin
+9. Download the python code and execute it from your location python model.py. 
+
+
+Will add more steps to this. 
