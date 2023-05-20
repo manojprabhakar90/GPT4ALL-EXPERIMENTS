@@ -1,4 +1,4 @@
-# GPT4ALL-NEWVERSION
+# GPT4ALL
 
 This is a step by step process to get GPT4ALL working in your system. 
 
