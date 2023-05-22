@@ -16,6 +16,6 @@ If you are a windows user, please follow the below steps.
 8. Download the gpt4all model using wget https://huggingface.co/mrgaang/aira/blob/main/gpt4all-converted.bin
 9. Download the python code and execute it from your location python model.py. 
 
-Update: pygpt4all doesn't work. Its no more supported.   
+Raised a PR to check on Pygpt4all. Update: pygpt4all doesn't work. Its no more supported. Use GPT4All for all your experiments. 
 
-Will add more steps to this. 
+1. Create a story from given input - generative.py
